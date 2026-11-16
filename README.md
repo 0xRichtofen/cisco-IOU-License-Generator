@@ -35,7 +35,6 @@ Or append it manually:
 ## Files
 
 - `iou_keygen.py` - the generator script
-- `iourc.txt` - generated license file (not tracked in git)
 
 ## License
 
