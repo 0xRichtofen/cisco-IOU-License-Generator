@@ -1,2 +1,5 @@
-# cisco-IOU-License-Generator
-Cisco IOU License Generator - 0xRichtofen
+# Cisco IOU License Generator - 0xRichtofen
+
+paste the result to ~/.iourc
+
+
